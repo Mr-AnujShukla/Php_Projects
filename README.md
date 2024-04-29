@@ -45,6 +45,11 @@ The Task A folder contains a PHP project titled "Top 27 Indian Actresses You Can
 
 ### Example Images
 
+Image of hosted code in XAMPP server:
+![Task A Image](https://github.com/Mr-AnujShukla/Php_Projects/blob/main/task%20A/Screenshot%20(71).png)
+
+
+
 ## Task B: Candidate Registration
 
 The Task B folder contains a PHP project for candidate registration. It allows candidates to register by providing their name, email, and a temporary password. The data is saved to a MySQL database, and the project integrates with Zapier to send the registration information to a designated email address via Webhooks.
@@ -58,4 +63,11 @@ The Task B folder contains a PHP project for candidate registration. It allows c
 - Zapier listens for incoming webhook requests and performs actions, such as sending registration information to a designated email address.
 
 ### Example Images
+
+Image of hosted code in XAMPP server:
+![Task B Image](https://github.com/Mr-AnujShukla/Php_Projects/blob/main/task%20B/Screenshot%20(73).png)
+![Task B Image](https://github.com/Mr-AnujShukla/Php_Projects/blob/main/task%20B/Screenshot%20(72).png)
+request i get in my email after submitting the task B:
+![Task B Image Email ](https://github.com/Mr-AnujShukla/Php_Projects/blob/main/task%20B/image.png)
+
 
